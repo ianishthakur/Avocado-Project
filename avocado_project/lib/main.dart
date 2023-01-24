@@ -33,7 +33,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: ThemeData(primarySwatch: mycolor),
-      home: HomePage(),
+      home:const HomePage(),
     );
   }
 }
