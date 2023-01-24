@@ -14,3 +14,7 @@ before 5:00 PM.
   
 Here is the screenshort:
   ![Alt text]("C:\Users\ianis\OneDrive\Desktop\Avocado\Avocado-Project\avocado_project\Screenshot_1674551568.png"?raw=true "Optional Title")
+
+  <img src="Screenshot_1674551568.png"
+     alt="Markdown Monster icon"
+     height="500em" />
