@@ -20,6 +20,7 @@ Here is the screenshort:
 
 Design and implementation challenge:
 
- <img src="Screenshot_20230123_090036"
-     alt="Markdown Monster icon"
-     height="500em" />
+   <img src="Screenshot_20230123_090036.png"
+      alt="Markdown Monster icon"
+      height="500em" />
+ 
